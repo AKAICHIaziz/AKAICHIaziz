@@ -3,7 +3,9 @@ I graduated this year as a Software Engineering & Information Systems
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a graduated Software Engineering & Information Systems student. I am passionate about creating innovative solutions that address real-world challenges. <br/>
+With hands-on experience building scalable applications, I focus on creating clean, maintainable code while integrating secure and efficient systems.<br/>
+My expertise includes technologies such as Spring Boot and Angular with a strong emphasis on developing high-performance solutions that align with business objectives.<br/>
 
 
 ## 🌐 Socials:
